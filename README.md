@@ -1,4 +1,4 @@
-# AWS Serverless GWA Calculator
+# AWS Serverless STI GWA Calculator
 
 ## Overview
 
